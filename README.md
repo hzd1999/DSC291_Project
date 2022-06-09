@@ -26,8 +26,13 @@ torch, torchvision, sklearn, seaborn, numpy, matplotlib
 
 > <img width="166" alt="Untitled" src="https://user-images.githubusercontent.com/37749394/172766104-a93eb03f-c3fa-445f-a92b-e0239931d7fc.png">
 
+> Sample mis-predicted image: True class shirt, predicted dress 
+> ![error_2](https://user-images.githubusercontent.com/37749394/172766918-6b75ef37-321c-4a70-ad38-c5e83a253b7f.png)
+
+
 ### PCA Visualization
 ![Untitled](https://user-images.githubusercontent.com/37749394/172766516-e5745aad-7cbd-4d23-91fa-9c01856a5abe.png)
+
 
 
 
