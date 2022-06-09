@@ -34,6 +34,17 @@ torch, torchvision, sklearn, seaborn, numpy, matplotlib
 ![Untitled](https://user-images.githubusercontent.com/37749394/172766516-e5745aad-7cbd-4d23-91fa-9c01856a5abe.png)
 
 
+### CNN Results:
+<img width="479" alt="image" src="https://user-images.githubusercontent.com/55414211/172767373-07cc476e-4b1d-43cd-8a3e-d533846053f7.png">
+<img width="161" alt="image" src="https://user-images.githubusercontent.com/55414211/172767386-1e32f44d-d35d-4d63-98b3-a79920656462.png">
+
+
+### We trained the CNN for epoch and obtained the following loss and accuracy plots:
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/55414211/172767430-4d9a97fb-fe1e-4d53-b995-bde308b26b18.png">
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/55414211/172767442-39e5bc21-6e42-437d-b365-bfbb3d3b3dce.png">
+
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/55414211/172767430-4d9a97fb-fe1e-4d53-b995-bde308b26b18.png">
+
 
 
 
